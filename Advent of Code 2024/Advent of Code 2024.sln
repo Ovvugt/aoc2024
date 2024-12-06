@@ -1,5 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 1", "Day 1\Day 1.csproj", "{E6395667-39D9-4BEC-9A9A-7C0AAC2A4748}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 2", "Day 2\Day 2.csproj", "{165EABCD-2F32-4C83-9A35-854561A524B7}"
@@ -9,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 4", "Day 4\Day 4.csproj", "{3BCCEE3B-0818-4E10-9F42-BE39BD355D2F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 5", "Day 5\Day 5.csproj", "{8C368B32-B542-4F8A-9E0D-B6EED194644B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 6", "Day 6\Day 6.csproj", "{5B228E40-761D-41D4-8B17-DA0A7F423C06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,5 +41,12 @@ Global
 		{8C368B32-B542-4F8A-9E0D-B6EED194644B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C368B32-B542-4F8A-9E0D-B6EED194644B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C368B32-B542-4F8A-9E0D-B6EED194644B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B228E40-761D-41D4-8B17-DA0A7F423C06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B228E40-761D-41D4-8B17-DA0A7F423C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B228E40-761D-41D4-8B17-DA0A7F423C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B228E40-761D-41D4-8B17-DA0A7F423C06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
